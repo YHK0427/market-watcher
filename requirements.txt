@@ -1,0 +1,7 @@
+langchain
+langchain-core
+langchain-google-genai  # Google Gemini 연동용
+langgraph               # 에이전트 흐름 제어 (핵심)
+tavily-python           # 무료 검색 엔진
+python-dotenv           # 환경변수(.env) 관리
+notion-client           # 노션 연동
