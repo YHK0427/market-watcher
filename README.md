@@ -76,3 +76,5 @@ python main.py
 | `URL`      | `URL`        | 원본 기사나 자료의 링크가 들어갑니다. |
 
 `카테고리`와 `중요도` 속성의 `Select` 옵션들은 스크립트에서 예상하는 값들과 일치하도록 미리 설정해두는 것이 좋습니다. (예: `카테고리`에 "기술동향", "비즈니스", "학술" 옵션 추가, `중요도`에 "★★★", "★★", "★" 옵션 추가).
+<img width="1150" height="273" alt="image" src="https://github.com/user-attachments/assets/d23e896c-4eb5-4215-b1c3-26c1e51849a0" />
+
